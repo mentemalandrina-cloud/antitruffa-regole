@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-01",
+ "aggiornato": "2026-11-02",
  "soglia": 3,
  "punteggi": {"link": 2, "link_accorciato": 2, "mittente_estero": 1, "whatsapp_sconosciuto": 1},
  "regex_link": "https?://[^\\s<>\"']+|www\\.[^\\s<>\"']+|[a-z0-9][a-z0-9-]*(\\.[a-z0-9-]+)*\\.(it|com|net|org|info|eu|biz|xyz|top|online|site|shop|store|app|link|live|click|icu|vip|club|life|world|website|space|tech|support|help|services|cfd|sbs|lat|bond|buzz|rest|cyou|mobi|ly|gd|gy|cc|at|ru|cn|tv)(?![a-z0-9-])(/[^\\s<>\"']*)?",
@@ -166,7 +166,7 @@
   {"prefisso": "+383", "azione": "avvisa", "motivo": "Kosovo: prefisso segnalato dalla Polizia Postale per gli squilli Wangiri. Non richiamare.", "fonte": "https://www.poliziadistato.it/articolo/165e9f128c634a7761524307"},
   {"prefisso": "+375", "azione": "avvisa", "motivo": "Bielorussia: prefisso segnalato dalla Polizia Postale per gli squilli Wangiri. Non richiamare.", "fonte": "https://www.poliziadistato.it/articolo/165e9f128c634a7761524307"},
   {"prefisso": "+255", "azione": "avvisa", "motivo": "Tanzania: prefisso segnalato dalla Polizia Postale per gli squilli Wangiri. Non richiamare.", "fonte": "https://www.poliziadistato.it/articolo/165e9f128c634a7761524307"},
-  {"prefisso": "+44", "azione": "avvisa", "motivo": "Regno Unito: citato per Wangiri e call center molesti con numeri esteri veri; usato anche da chiamate lecite, quindi solo avviso.", "fonte": "https://www.commissariatodips.it/notizie/articolo/attenzione-alle-pingcalls/index.html"},
+  {"prefisso": "+44", "azione": "avvisa", "motivo": "Regno Unito: citato per Wangiri e call center molesti con numeri esteri veri; usato anche da chiamate lecite.", "fonte": "https://www.commissariatodips.it/notizie/articolo/attenzione-alle-pingcalls/index.html"},
   {"prefisso": "+39893", "azione": "blocca", "motivo": "Numerazione italiana a sovrapprezzo (893): usata dagli SMS truffa che chiedono di richiamare (falsi ASL, CUP, TARI). Nessun ente pubblico usa questi numeri.", "fonte": "https://www.arera.it/per-il-consumatore/rifiuti"},
   {"prefisso": "+39895", "azione": "blocca", "motivo": "Numerazione italiana a sovrapprezzo (895): usata dagli SMS truffa che chiedono di richiamare.", "fonte": "https://www.arera.it/per-il-consumatore/rifiuti"},
   {"prefisso": "+39899", "azione": "blocca", "motivo": "Numerazione italiana a sovrapprezzo (899): usata dagli SMS truffa che chiedono di richiamare.", "fonte": "https://www.arera.it/per-il-consumatore/rifiuti"},
